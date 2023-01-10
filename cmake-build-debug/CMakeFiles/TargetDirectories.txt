@@ -1,0 +1,3 @@
+C:/Users/Emil/CLionProjects/higherlowergame/cmake-build-debug/CMakeFiles/higherlowergame.dir
+C:/Users/Emil/CLionProjects/higherlowergame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Emil/CLionProjects/higherlowergame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
