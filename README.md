@@ -1,5 +1,6 @@
 # higherlowergame
 
-higher lower spil jeg har lavet tihi
+Et higher or lower spil jeg har lavet i c++ med clion
 
-hvis du selv vil compile den så brug clion eller visual studio eller noget
+Koden er hovedsageligt skrevet i main.cpp
+I def.h har jeg defineret en rng class som er lavet i def.cpp
